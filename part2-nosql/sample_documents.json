@@ -1,0 +1,43 @@
+[
+  {
+    "product_id": "E101",
+    "name": "Gaming Laptop",
+    "category": "Electronics",
+    "price": 75000,
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "voltage": "220V"
+    },
+    "warranty_years": 2,
+    "features": ["RGB Keyboard", "RTX Graphics", "WiFi 6"]
+  },
+
+  {
+    "product_id": "C201",
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 3200,
+    "size_options": ["S", "M", "L", "XL"],
+    "material": "Denim Cotton",
+    "colors_available": ["Blue", "Black"],
+    "brand": "UrbanStyle"
+  },
+
+  {
+    "product_id": "G301",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 250,
+    "expiry_date": "2024-12-15",
+    "nutritional_info": {
+      "calories": 60,
+      "protein": "2g",
+      "fat": "3g",
+      "carbohydrates": "8g"
+    },
+    "package_size": "1L",
+    "organic": true
+  }
+]
